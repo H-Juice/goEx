@@ -1,0 +1,20 @@
+2020/12/03 19:22:59 error: open /path/to/config.toml: The system cannot find the path specified.
+can't open config file
+main.readConfig
+	D:/99_private/gotest/Exercise/CH05/05_01/errors.go:17
+main.main
+	D:/99_private/gotest/Exercise/CH05/05_01/errors.go:37
+runtime.main
+	c:/go/src/runtime/proc.go:204
+runtime.goexit
+	c:/go/src/runtime/asm_amd64.s:1374
+2020/12/03 19:23:30 error: open /path/to/config.toml: The system cannot find the path specified.
+can't open config file
+main.readConfig
+	D:/99_private/gotest/Exercise/CH05/05_01/errors.go:17
+main.main
+	D:/99_private/gotest/Exercise/CH05/05_01/errors.go:37
+runtime.main
+	c:/go/src/runtime/proc.go:204
+runtime.goexit
+	c:/go/src/runtime/asm_amd64.s:1374
